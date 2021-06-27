@@ -1,0 +1,8 @@
+pip install django==3.2.3
+pip install mysqlclient
+pip install six
+pip install requests
+
+
+
+# Note : when this project was working okay i was using python 3.9.4  version  &  django  3.2.3 version
